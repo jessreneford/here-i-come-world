@@ -1,1 +1,1 @@
-# here-i-come-world
+# Hi, Jess here. I'm very new to the world of coding. I have learned the very basics of python and am currently learning HTML, CSS, SQL and plan to learn Javascript and dive more into python. I'm not super sure what I plan to specialize in and would not turn away help or advice anyone is willing to give!
